@@ -1,0 +1,86 @@
+[
+  {
+    "height": 580000,
+    "hash": "1fe00b780c7fc79f6ceafbf7be55fd6459de762f54960dbdb223f5c37b99b56d",
+    "reward_bnc": 4.025,
+    "time_utc": "2025-09-11 17:20:10",
+    "miner": "bnc-8802"
+  },
+  {
+    "height": 579999,
+    "hash": "a18d53e12a0b11330da1a6fe7b0fbbec358222f010706c762bd93ff604d53670",
+    "reward_bnc": 5.212,
+    "time_utc": "2025-09-11 17:05:10",
+    "miner": "bnc-3185"
+  },
+  {
+    "height": 579998,
+    "hash": "222dc53cb439fe9b236abc93ddd2c21d8a937b1220548c16be96607fce7189bb",
+    "reward_bnc": 4.539,
+    "time_utc": "2025-09-11 16:50:10",
+    "miner": "bnc-5203"
+  },
+  {
+    "height": 579997,
+    "hash": "3d81eca18b5d693545f501fc82a981447ef22453ce9137c7d90ff967924209f0",
+    "reward_bnc": 1.865,
+    "time_utc": "2025-09-11 16:35:10",
+    "miner": "bnc-4336"
+  },
+  {
+    "height": 579996,
+    "hash": "418c59bc70fe2feabdd78ca61713e91a67654bcb2a9e7ae4fc3328d759e1a71e",
+    "reward_bnc": 0.753,
+    "time_utc": "2025-09-11 16:20:10",
+    "miner": "bnc-4343"
+  },
+  {
+    "height": 579995,
+    "hash": "7a3c5bd3da51e666f77c42901b19d3dec598736ccd087758ca11133519663c96",
+    "reward_bnc": 1.3,
+    "time_utc": "2025-09-11 16:05:10",
+    "miner": "bnc-7755"
+  },
+  {
+    "height": 579994,
+    "hash": "8976454f9fc33743efd9632dc853390a800a419cde686ebf347cac30d779435a",
+    "reward_bnc": 0.594,
+    "time_utc": "2025-09-11 15:50:10",
+    "miner": "bnc-1047"
+  },
+  {
+    "height": 579993,
+    "hash": "1d6cb8aca386af421c2b14a174d4a92c49ff359eac5361d4f16e24a99105bfc3",
+    "reward_bnc": 3.421,
+    "time_utc": "2025-09-11 15:35:10",
+    "miner": "bnc-8401"
+  },
+  {
+    "height": 579992,
+    "hash": "e4f3a7cd202de2235c3920d7da8a11b917922091af400f8483c54b7d6ab056c0",
+    "reward_bnc": 5.568,
+    "time_utc": "2025-09-11 15:20:10",
+    "miner": "bnc-3319"
+  },
+  {
+    "height": 579991,
+    "hash": "f25b1d3047e98958ab860b08402c02cc704748595c37ceee5ea2f68cff1a4f87",
+    "reward_bnc": 4.29,
+    "time_utc": "2025-09-11 15:05:10",
+    "miner": "bnc-1065"
+  },
+  {
+    "height": 579990,
+    "hash": "dfccac73e35d285a65c2aa8f6f180d347d3eebe8c23bfe88fc54a49ee1f4e3fd",
+    "reward_bnc": 2.225,
+    "time_utc": "2025-09-11 14:50:10",
+    "miner": "bnc-7532"
+  },
+  {
+    "height": 579989,
+    "hash": "1dfe1eb170944779281a32fbf6d2adfe4dd546c6013c36999ea9cfaa64d48ccd",
+    "reward_bnc": 5.578,
+    "time_utc": "2025-09-11 14:35:10",
+    "miner": "bnc-8037"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "coin": "BNC",
+  "network_hashrate_hs": 14544359861,
+  "pool_hashrate_hs": 669956516,
+  "miners_online": 493,
+  "last_block_height": 540803,
+  "difficulty": 1116876,
+  "blocks_24h": 13,
+  "server_time_utc": "2025-09-11 17:20:10"
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "worker-01",
+    "hashrate_hs": 222005,
+    "shares_valid": 12288,
+    "shares_invalid": 27,
+    "uptime": "24h 25m"
+  },
+  {
+    "name": "worker-02",
+    "hashrate_hs": 818483,
+    "shares_valid": 12095,
+    "shares_invalid": 0,
+    "uptime": "80h 49m"
+  },
+  {
+    "name": "worker-03",
+    "hashrate_hs": 1443947,
+    "shares_valid": 14043,
+    "shares_invalid": 34,
+    "uptime": "6h 59m"
+  },
+  {
+    "name": "worker-04",
+    "hashrate_hs": 52278,
+    "shares_valid": 457,
+    "shares_invalid": 12,
+    "uptime": "198h 37m"
+  },
+  {
+    "name": "worker-05",
+    "hashrate_hs": 502819,
+    "shares_valid": 6713,
+    "shares_invalid": 38,
+    "uptime": "156h 52m"
+  },
+  {
+    "name": "worker-06",
+    "hashrate_hs": 586291,
+    "shares_valid": 10496,
+    "shares_invalid": 33,
+    "uptime": "200h 22m"
+  },
+  {
+    "name": "worker-07",
+    "hashrate_hs": 586063,
+    "shares_valid": 3032,
+    "shares_invalid": 18,
+    "uptime": "64h 59m"
+  },
+  {
+    "name": "worker-08",
+    "hashrate_hs": 550213,
+    "shares_valid": 5025,
+    "shares_invalid": 17,
+    "uptime": "10h 34m"
+  },
+  {
+    "name": "worker-09",
+    "hashrate_hs": 403911,
+    "shares_valid": 11844,
+    "shares_invalid": 24,
+    "uptime": "157h 17m"
+  },
+  {
+    "name": "worker-10",
+    "hashrate_hs": 395844,
+    "shares_valid": 7767,
+    "shares_invalid": 36,
+    "uptime": "16h 32m"
+  }
+]
