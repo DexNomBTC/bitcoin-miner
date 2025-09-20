@@ -1,7 +1,4 @@
 # bitcoin-miner
-Online bitcoin miner DexNom
+Online bitcoin miner DexNom.com
 
-dexnom.com 
-
-Pool
-SQLs Database
+MySql database site, cryptocurrency pool PHP, Perl
